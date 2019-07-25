@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Room</string>
+    <string name="add_task">Add New Task</string>
+    <string name="task_name">Task</string>
+    <string name="task_description">Description</string>
+    <string name="save">Save</string>
+</resources>
